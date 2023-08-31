@@ -1,3 +1,8 @@
+from appJar import gui
+
+#Eu queria um desafio maior já que sou bem familiar com Python,
+#Por isso tentei Integrar uma biblioteca gráfica no Projeto.
+
 #The main game steps are processed here, ((NEVER)) redirect the flow to another file.
 import utilities
 
